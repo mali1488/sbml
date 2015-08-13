@@ -1,0 +1,8 @@
+.circular {
+	width: 350px;
+	height: 350px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(../img/mattias.png) no-repeat;
+}

@@ -1,0 +1,21 @@
+/* Color of background */
+.navbar-default {
+  background-color: #1fb58a;
+  border-color: #1fb58a;
+}
+/* The color of the brand */
+.navbar-default .navbar-brand {
+  color: #ffffff;
+}
+/* Color when hovering text */
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: #164e3e;
+}
+/* Default text */
+.navbar-default .navbar-text {
+  color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
